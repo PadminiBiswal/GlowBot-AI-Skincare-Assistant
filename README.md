@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🌸 GlowBot — AI-Powered Skincare Assistant
@@ -304,3 +305,7 @@ MIT License — Feel free to use this as inspiration for your own Agentforce pro
 <div align="center">
 Made with 🌸 and Salesforce Agentforce
 </div>
+=======
+# GlowBot-AI-Skincare-Assistant
+AI-Powered Skincare Assistant built with Salesforce Agent force
+>>>>>>> cffef77d900a5b21d79dfaceff0f1974114c8666
